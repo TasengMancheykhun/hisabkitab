@@ -10,7 +10,7 @@ setup(
     py_modules=["hisabkitab"],
     entry_points={
         "console_scripts": [
-            "hisab=kitab:main",
+            "hisabkitab=hisabkitab:main",
         ],
     },
     install_requires=[
