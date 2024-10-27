@@ -3,7 +3,7 @@ A simple CLI tool to keep track of your dues
 
 Run the project
 
-1. List all hisab\  
+1. List all hisab\
    ```hisabkitab hisab```
 
 Say 'Ramesh' is a person,
@@ -11,7 +11,7 @@ Say 'Ramesh' is a person,
 2. Add an entry to pay 1000 to Ramesh\
    ```hisabkitab add ramesh 1000```
 
-3. Lists all entries with status 'to_pay'\ 
+3. Lists all entries with status 'to_pay' \ 
    ```hisabkitab list to_pay```
 
 4. Update hisab of Ramesh\
